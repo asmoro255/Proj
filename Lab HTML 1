@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title style="color: tomato;">
+            Personal Portfolio
+        </title>
+    </head>
+    <body>
+        <h1 style="background-color: lightgoldenrodyellow;"> Alla Morozova</h1>
+        <h3 style="background-color: lightgoldenrodyellow;"> Hillier College of Architecture and Design</h3>
+        <h3 style="background-color: lightgoldenrodyellow;"> asm255</h3>
+        <h3 style="background-color: lightgoldenrodyellow;"> Bachelor of Architecture</h3>
+        <p
+            style="color: salmon;"> I am an aspiring first-year architecture student at <br> the New Jersey Institute of Technology. I am a curious <br> and creative individual whose goal is to spend every day learning something new. 
+        </p>
+        <a href=" "https://www.njit.edu"> Visit NJIT</a>
+    </body>
+        <img src="image-licorice.jpg" width="400" height="250">
+</html>
